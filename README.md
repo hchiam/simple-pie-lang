@@ -9,4 +9,4 @@ Word list references:
 - vocab list: https://en.wikipedia.org/wiki/Indo-European_vocabulary
 - Swadesh list: https://en.wiktionary.org/wiki/Appendix:Proto-Indo-European_Swadesh_list
 
-website -> scraper -> JSON
+website -> scraper -> JSON -> `node json_to_md.js` -> markdown file
