@@ -1,0 +1,811 @@
+{
+  "entries": [
+    {
+      "Kinship": [
+        ["mother (< OE mōdor)", "meater- \"mother\"[a][1][2]"],
+        ["father (< OE fæder)", "pater- \"father\"\n[3][4][5]"],
+        ["brother (< OE brōþor)", "bhreater- \"brother\"[6][7][8]"],
+        [
+          "sister (< OE sweostor, influenced by ON systir)",
+          "swesor \"sister\"[13][14][8]"
+        ],
+        ["", "somo-pator\n\"sibling, lit. same-father(ed)\"\n[3][4][5]"],
+        ["daughter (< OE dohtor)", "dhuga-ter- \"daughter\"[16][17][18][19]"],
+        [
+          "son (< OE sunu)",
+          "suhnu- \"son\"\n[29][30][31][32]\n(see also sew-)"
+        ],
+        ["", "putlo-\n\"son\"\n[31][37][38]"],
+        [
+          "obsolete neve \"nephew, male cousin, grandson\" (< OE nefa)",
+          "(a)nepots \"nephew, grandson\"\n[39][40]"
+        ],
+        [
+          "OE tācor \"husband's brother\"",
+          "daiauer- \"husband's brother, brother-in-law\""
+        ],
+        ["OE snoru \"daughter-in-law\"", "snusos \"daughter-in-law\""],
+        [
+          "wed (< OE weddian \"to pledge, wed\")",
+          "wedh- \"pledge, bind, secure, lead\"[42]"
+        ],
+        ["", "gem-\n\"to marry\"\n[43][44]\n[45][46]"],
+        ["OE sweger \"mother-in-law\"", "suekru- \"mother-in-law\""],
+        ["", "aewaos \"maternal grandfather, maternal uncle\""],
+        ["", "yemh- \"twin; to hold\"[50][51]"],
+        [
+          "widow (< OE widwe)",
+          "widhewa \"widow\" < weydh- \"to separate\"[l][53]"
+        ]
+      ]
+    },
+    {
+      "People": [
+        [
+          "OE guma \"person, man\", brȳdguma \"bridegroom\"[m]",
+          "dhghemon- \"person, human (litt. of the earth)\"\n(see also dheghom-)"
+        ],
+        ["", "aner- \"man, hero\""],
+        ["werewolf (< OE wer \"man\")", "wih-ro- \"man\""],
+        [
+          "queen (< OE cwēn \"queen, woman, wife\")",
+          "gwen-ea- \"woman, wife\""
+        ],
+        ["", "potis \"master, ruler, husband\"[53]"],
+        ["", "dems potis \"master of the house\""],
+        [
+          "guest (< OE giest);\nhost < Lat. hostis;\nhospital,\nhostel,\nhotel\n< Lat. hospes",
+          "ghostis \"guest, host, stranger\"[61]"
+        ],
+        [
+          "-wick, -wich < Lat. vīcus",
+          "weyk- \"settlement, to enter, settle\"[42]"
+        ],
+        [
+          "",
+          "wikpotis\n\"master of the household; lord, clan chief\"\n[62][63]"
+        ],
+        ["", "oregs \"king, ruler\"[64]"],
+        [
+          "OE þeod \"people, nation\"",
+          "teute- \"community, people\"[r][s][68][69]"
+        ],
+        ["OE leode, lēod \"a people, a group, nation\",", "lewdh- \"people\""]
+      ]
+    },
+    {
+      "Pronouns and particles": [
+        ["I (< OE ic̣)", "ega \"i\""],
+        ["me (< OE mē, mec < *H₁me-ge)", "me- \"me (acc.)\""],
+        ["me (< OE mē)", "meghi \"me (dat.)\", ()moi \"me (dat. encl.)\""],
+        [
+          "my, mine (< OE mīn < *H₁mei-no-)",
+          "meme-, mene- \"of me, mine\"; mo-yo-,  me-yo- \"my\""
+        ],
+        ["thou (< OE þū \"you\")", "tu \"you\" (nom. sg.)"],
+        [
+          "we (< OE wē), us (< OE ūs < PGerm *uns < *n̥s)",
+          "wei \"we\"; ns-me, encl. nos \"us\""
+        ],
+        [
+          "ye (< OE gē \"you (nom. pl.)\"), you (< OE ēow[v] \"you (acc./dat. pl.)\")",
+          "yu \"you (nom. pl.)\"; us-we, us-me,[74] encl. wos \"you (acc./dat. pl.)\""
+        ],
+        ["self (< OE self, seolf)", "s(w)e- \"oneself\"; (reflexive pronoun)"],
+        ["what (< OE hwæt)", "kwid, kwod \"what\""],
+        ["who (< OE hwā < *kʷoi)", "kwis, kwos, kwei/kwoi \"who\""],
+        ["", "-kwe \"and; any\""],
+        ["un- (< OE un-)", "n- \"not, un-\""]
+      ]
+    },
+    {
+      "Numbers": [
+        [
+          "same (< ON samr); OE sam- \"together\"; [also German Language zusammen]",
+          "sem- \"one, together\""
+        ],
+        ["one (< OE ān)", "oi-nos, oi-wos \"one\""],
+        ["two (< OE twā)", "dwo , neut. dwoy() \"two\""],
+        ["three (< OE þrīe)", "treyes (fem. tisres,[78] neut. tria) \"three\""],
+        [
+          "four (< OE fēower)",
+          "kwetwores (fem. kwetesres, neut. kwetwor) \"four\""
+        ],
+        ["five (< OE fīf)", "penkwe \"five\""],
+        ["six (< OE siex)", "sweks \"six\""],
+        ["seven (< OE seofon)", "septm \"seven\""],
+        ["eight (< OE eahta)", "okto(u) \"eight\""],
+        ["nine (< OE nigon)", "()newn \"nine\""],
+        ["ten (< OE tien)", "dekmt \"ten\""],
+        ["(remodelled)", "wikmti \"twenty\" < dwi-dkmt-i \"two tens\""],
+        ["hundred (< OE hund, hund-red)", "kmtom \"hundred\" < dkmtom"]
+      ]
+    },
+    {
+      "Body": [
+        ["(mid)riff\n(< OE hrif)", "krep-\n\"body\"[88][89]"],
+        [
+          "head\n(< OE hēafod);\nOE hafela, hafola \"head\"",
+          "kaput ~ kap-wet-s\n\"head\"[90][91]"
+        ],
+        ["tear (< OE tēar, tæhher)", "(d)akru- \"tear\""],
+        ["tongue (< OE tunge)", "dnghua-, dnghwea \"tongue\""],
+        ["", "esar, esanes \"blood\""],
+        ["chin (< OE c̣inn)", "g(o)nadhos \"jaw, cheek, chin\""],
+        ["knee (< OE cnēo)", "genu, gneus \"knee\""],
+        ["comb (< OE camb)", "gombhos \"tooth, row of teeth\""],
+        ["tooth (< OE tōþ < *H₁dont-)", "dont-, dnt- \"tooth\""],
+        ["", "aost- \"bone\""],
+        ["ear (< OE ēare)", "aous- \"ear\""],
+        ["eye (< OE ēage)", "ookw- \"eye\""],
+        ["Scot ure (< OE ōr, ōra)", "oo-(e)s- \"mouth\""],
+        [
+          "heart (< OE heorte)",
+          "kerd- \"heart\"; kred-dhe- \"to believe\"\n(see also kred·dheti)"
+        ],
+        [
+          "navel (< OE nafola);\nnave (< OE nafu)",
+          "onebh- \"navel, hub\";\nonobhol \"navel\"[97][98]"
+        ],
+        [
+          "raw \"uncooked food\" (< OE hræw \"corpse, carrion\")",
+          "krewa- \"gore, blood (blood outside the body)\"[99]"
+        ],
+        ["nose (< OE nosu)", "nas- \"nose\""],
+        ["foot (< OE fōt)", "pods, ped- \"foot\"\n(see also ped-)"],
+        [
+          "OE fiersn \"heel, calx\"",
+          "tpersnea\n\"heel, upper thigh\"\n[104][105][106]"
+        ],
+        [
+          "nail\n(< OE næġel)",
+          "onoghs\n\"nail (finger or toe)\"\n[107][108][109]"
+        ],
+        ["", "yekwr, yekwnes \"liver\""],
+        ["", "ghesr ~ ghs-r-es \"hand\""],
+        [
+          "mound\n(< OE mund \"hand, hand of protection, protector)",
+          "mea-r ~ ma-en- ~ ma-nt-ea\n\"hand, the pointing one\"\n[113][114][115]"
+        ],
+        ["bough (< OE bōg)", "bheaghus \"arm\"[116]"],
+        ["brow, Scot broo (< OE brū)", "obhruhs \"eyebrow\"[117]"],
+        [
+          "feather\n(< OE feþer)",
+          "petar\n\"wing, feather\"\n[118][119][115][120]\n(see also peta-)"
+        ]
+      ]
+    },
+    {
+      "Animals": [
+        ["OE eoh \"horse\"", "ekwos \"horse\", \"fast animal\""],
+        ["cow (< OE cū)", "gwous \"cattle\"[i][122]"],
+        [
+          "fee; fief; feud (< OE feoh \"livestock, property, money\");",
+          "peku \"livestock\"[126][127]"
+        ],
+        ["", "aewis\n\"bird\"\n[128][129][130][131]\n(see also aowyo·m)"],
+        ["ewe (< OE ēow \"sheep\", ēowu \"ewe\")", "aowi- \"sheep \""],
+        ["", "artkos \"bear\"[132]"],
+        ["hound (< OE hund \"dog\")", "kwon- \"hound, dog\"[133]"],
+        ["mouse, Scot moose (< OE mūs)", "mus- \"mouse\""],
+        ["ox (< OE oxa)", "uksen \"ox, bull\"[137][138]"],
+        ["", "tawros \"bull\""],
+        ["sow (< OE sū)", "suhs- \"pig\""],
+        ["wolf (< OE wulf)", "wlkwos \"wolf\""],
+        ["", "wl(o)p \"fox\""],
+        ["goose (< OE gōs), gander (< OE ganra)", "ghans- \"goose\""],
+        ["Scot ennet \"duck\" (< OE ened)", "aena-t(i)- \"duck\""],
+        ["", "elen \"deer\""],
+        [
+          "OE igil \"hedgehog\" (< Proto-Germanic *igilaz)",
+          "eghis \"hedgehog\""
+        ],
+        [
+          "beaver (< OE beofer)",
+          "bhebhrus \"beaver\"\n(see also bher-, bherh-)"
+        ],
+        ["erne \"a sea eagle\" < OE earn \"eagle\"", "oer-on \"eagle\"[150]"],
+        ["", "aengwhis; ogwhis \"snake\", \"serpent\""],
+        ["", "aeyg- \"goat\"[156]"],
+        [
+          "ey (obsolete) \"egg\"\n(< OE ǣġ) (> Cockney \"cock-egg\");\negg\n(< ON egg)",
+          "aowyo·m\n(a vrddhi-derivative of aewis)\n\"egg\"\n[157][158][130][159]"
+        ],
+        ["yean \"to give birth to\" (< OE ēanian)", "aegwnos \"lamb\"[160]"],
+        [
+          "lax\n(< OE leax \"salmon\")",
+          "lak-, laks-\n\"to be spotted; salmon, trout\"\n[161] [162] [163]"
+        ]
+      ]
+    },
+    {
+      "Food and farming": [
+        [
+          "corn (< OE corn \"grain\")",
+          "gra-no- \"grain\"[164][165][166]\n(see also ghre-)"
+        ],
+        [
+          "grow\n(< OE grōwan);\ngreen\n(< OE grēne);\ngrey, gray\n(< OE grǣġ);\ngrass\n(< OE græs);\ngroom (young boy, servant)\n(< ME grome)",
+          "ghre-\n\"to grow\"\n[167][168][164][169]\n(see also gra-no-)"
+        ],
+        ["acre (< OE æcer \"field\")", "aegro- \"field\""],
+        ["OE erian \"to plow\"", "aero- \"to plow\""],
+        ["milk (< OE meolc, mioluc)", "amelg- \"to milk\""],
+        [
+          "meal (< OE melu);\nmalm (< OE mealm)",
+          "mela- \"to grind\"[170][171]"
+        ],
+        [
+          "OE hwaþerian \"to roar, foam, surge\"",
+          "kwaet-\n\"to ferment, become sour\"\n[172][173]\n[174][175]"
+        ],
+        ["", "yew-\n\"to blend, mix, knead\"\n[176] [177] [178] [179]"],
+        [
+          "brew\n(< OE brēowan);\nburn\n(< OE biernan, beornan);\nbread\n(< OE brēad);\nbroth\n(< OE broþ)",
+          "bhrew-\n\"to boil; to brew\"\n[180][181]"
+        ],
+        ["quern (< OE cwerne)", "gwreawo \"quern, millstone\"[183][127]"],
+        ["mildew (< OE mele-dēaw \"honeydew\")", "meli-t, mel-nes \"honey\""],
+        ["mead (< OE medu)", "medhu \"honey\", \"mead\""],
+        ["butter (< Gk. boútūros \"cow cheese\")", "tua-ro-s \"cheese\"[160]"],
+        ["salt (< OE sealt)", "seals \"salt\"[190][191]"],
+        [
+          "sow (< OE sāwan), seed (< OE sēd \"that which is sown\")",
+          "se- \"to sow (seed)\", semn \"seed\""
+        ],
+        ["yoke (< OE ġeoc)", "yugom \"yoke\"\n(see also yewg-)"],
+        ["", "yewos \"cereal, grain; spelt, barley\"[192][193]"],
+        ["", "mems \"meat\"[195][127]"],
+        ["apple (< OE appel)", "aebol \"apple\"[126][127]"]
+      ]
+    },
+    {
+      "Bodily functions and states": [
+        ["OE ōþian \"breathe hard\" < PGerm *anþōjanã", "aen- \"to breathe\""],
+        [
+          "archaic sweven \"dream, vision\" (< OE swefn); NoEng sweb \"to swoon\" (< OE swebban \"to put to sleep, lull\")",
+          "swep- \"to sleep\", swepnos \"dream (n.)\""
+        ],
+        ["", "der-, drem-\n\"to sleep\"\n[199] [200] [201] [202]"],
+        [
+          "bid (< OE bēodan);\nbede (< OE bēden);\nbode (< OE bodian)",
+          "bhewdh- \"to be awake, be aware\"[203]"
+        ],
+        ["sweat (< OE swǣtan \"to sweat\")", "sweid- \"sweat\""],
+        ["eat (< OE etan)", "ed- \"to eat\""],
+        [
+          "potable (< OF potable)\n\nimbibe (< Lat. bibere \"to drink\" via OF imbiber)",
+          "peo- \"to drink\""
+        ],
+        ["choose (< OE ċēosan)", "gews- \"to test, to taste\""],
+        [
+          "kin\n(< OE cynn \"kind, sort, family, generation\") (> kindred);\nkind (< OE (ġe)cynd \"generation, nature, race, kind\");\nking\n(< OE cyning);\nOE cennan \"produce\"",
+          "gen-\n\"to beget, give birth, produce\"\n[204][205][206][207][208]"
+        ],
+        [
+          "",
+          "sew- or sewo-\n\"to bear, beget, give birth\"\n[29][30][31][32][209]\n(see also suhnu-)"
+        ],
+        [
+          "eke (< OE ēacian \"to increase\"); wax (of the moon) (< OE weaxan \"to grow\")",
+          "aeug-, aweg- \"to grow, increase\"[210]"
+        ],
+        [
+          "wake (< OE wacian); watch (< OE wæċċan)",
+          "weg- \"fresh, strong; lively, awake\"[212]"
+        ],
+        [
+          "quick (< OE cwicu \"alive\")",
+          "gwiowo- \"alive\", gwiowo-tea \"life\""
+        ],
+        [
+          "churl\n(< OE ċeorl, ċiorl \"free man\")",
+          "gera-\n\"to grow old, mature\"\n[214][215]\n[206][216][217]\n(see also gra-no-, ghre-)"
+        ],
+        ["murder (< OE morþor < *mr̥-tro-m)", "mer- \"to die\""],
+        ["", "klh-\n\"bald, naked\"\n[218][219]\n[220][221]"],
+        ["whoost \"cough\"\n(< OE hwōstan)", "kweas-\n\"to cough\"[222][223]"],
+        ["fart (< OE feortan)", "perd- \"fart\"[224][225]"]
+      ]
+    },
+    {
+      "Mental functions and states": [
+        ["listen (< OE hlystan), loud (< OE hlūd)", "kleu-(s)- \"to hear\""],
+        [
+          "OE ēawis \"obvious\"",
+          "aew- or oew\n\"to see, perceive, be aware of\"\n[227] [228] [201] [229]"
+        ],
+        [
+          "wit (OE wit \"intelligence\", witan \"to know\" < PIE perfect tense)",
+          "weid- \"to see, find; to know\""
+        ],
+        ["", "woid- \"to know\""],
+        [
+          "can (< OE cann \"I know, he knows\"), know (< OE cnāwan < *ĝnēH₃-yo-nom), Scot ken \"to know\" (< OE cennan \"to cause to know\" < PGerm *kann-jan)",
+          "geno-, gneo-sk-, gn-ne-o- \"to recognize, know\""
+        ],
+        [
+          "uncouth (< OE uncūþ \"unknown, strange\")",
+          "n- + gneo-tos \"not\" + \"to know\""
+        ],
+        [
+          "love\n(< OE lufu);\nlief \"dear, beloved\"\n(< OE lēof);\nlofe \"praise, exalt; offer\"\n(< OE lofian, lof)",
+          "lewbh-\n\"to love; desire, covet, want; admire, praise\"[232][233]"
+        ],
+        [
+          "mind (< OE (ġe)mynd \"memory\" < *mn̥t-ís); OE munan \"to think\";\nminion",
+          "men- \"to think\"[234][235]"
+        ],
+        [
+          "mammer \"to hesitate; to mumble, stammer from hesitation\"\n(< OE māmrian, māmorian \"to think through, deliberate, plan out\");\nmimmer \"to dote, dream\"\n(< OE mymerian \"to keep in mind\");\nmourn\n(< OE murnan);\nOE mimor \"mindful\"",
+          "(s)mer-\n\"to remember, care for, be concerned, fall into thinking\"\n[237] [238] [201] [239]"
+        ],
+        [
+          "think\n(< OE þenċan, þenċean);\nthank\n(< OE þanc \"thought, thanks\")",
+          "teng-\n\"to think\"\n[240] [241] [201]"
+        ],
+        [
+          "mar\n(< OE mierran)",
+          "mers-\n\"to bother, annoy, neglect, disturb, forget, ignore\"\n[242] [243] [201] [244]"
+        ],
+        [
+          "see (< OE sēon); say (< OE sec̣gan < PGerm *sag(w)jan < *sokʷéyonom)",
+          "sekw- \"to see, to say\""
+        ],
+        [
+          "ME torhte \"bright, shining, radiant\"",
+          "derk-\n\"to see\"\n[245] [246] [247] [248]"
+        ],
+        [
+          "spy\n(< Fk *spehōn \"to spy\")",
+          "(s)pek-\n\"to watch, be looking at, keep looking at\"\n[249] [250] [247] [251]"
+        ],
+        ["", "kwek-\n\"to see; to show; to seem\"\n[252] [253] [247] [254]"],
+        ["OE wōma \"noise\" < *wōkʷ-mō(n)", "wekw- \"to say\""],
+        [
+          "ban (< PGmc *bannaną \"to proclaim, order, summon\")",
+          "bhea- \"to speak, say\"[255]"
+        ],
+        [
+          "Scot frain \"to ask\" (< OE freġnan)",
+          "prek-, pr-sk- < prk-sk- \"to ask\""
+        ],
+        [
+          "haul\n(< OE halian);\nscold\n(< ON skald)",
+          "kel-, (s)kel-dh-\n\"to call, cry, summon\"[256][257]"
+        ],
+        [
+          "bive, bever \"to shake, tremble\" (< OE bifian)",
+          "bheya- \"to fear, be afraid\"[258]"
+        ],
+        ["name (< OE nama)", "neomn or nomn- \"name\""]
+      ]
+    },
+    {
+      "General conditions and states": [
+        [
+          "stick\n(< OE sticca);\nstitch\n(< OE stiċe);\nthistle\n(< OE þistel)",
+          "(s)teyg-\n\"to be sharp; to sting\"\n[260][261]\n[262][263]"
+        ],
+        [
+          "thaw\n(< OE þawian); thone\n\"damp, moist, wet\" (< OE þan)",
+          "tea-\n\"to melt, thaw; flow\"\n[264] [265] [266]"
+        ]
+      ]
+    },
+    {
+      "Natural features": [
+        ["star (< OE steorra)", "aster- \"star\"\n(see also: aehs-)"],
+        [
+          "Tues-day (< OE Tīwes-dæġ lit. \"day of Tīw\"[bg])",
+          "dyeus, deiwos[ii] \"sky, day, god\""
+        ],
+        ["sun (< OE sunne)", "seawol-, saun- \"sun\""],
+        ["moon (< OE mōna), month (< OE mōnaþ)", "mens- \"moon, month\""],
+        ["", "dheghom- \"earth\"\n(see also dhghemon-)"],
+        ["hammer\n(< OE hamer)", "aekmo\n\"stone\"\n[270][271]\n[272][273]"],
+        ["", "lep-\n\"stone\"\n[274][275][276]"],
+        ["water (< OE wæter)", "wodr (udens) pl. wedor (udnes) \"water\""],
+        ["tree (< OE trēo)", "doru, dreu- \"wood, tree\""],
+        [
+          "wind (< OE wind); OE wāwan \"to blow\"",
+          "awento- \"wind\", awe- \"to blow\""
+        ],
+        [
+          "snow (< OE snāw < *snoigʷhos, snīwan \"to snow\" < *sneigʷhonom)",
+          "sneigwh- \"to snow\""
+        ],
+        ["", "ngwnis \"fire\" < engw- \"to burn\";[280]\nongwl \"charcoal\""],
+        ["fire (< OE fȳr < *fuïr[bl])", "peawr, paunes \"bonfire\"[bl]"],
+        ["", "dhuamos \"smoke\" < dhewa- \"to smoke\"[282]"],
+        [
+          "ash\n(< OE æsce);\n",
+          "aehs-\n\"to become dry; burn, glow; hearth; ashes\"\n\n[283] [284] [266]\n(see also: aster-)"
+        ],
+        ["", "ken-\n\"to rub, scrape off; ashes, dust\" [285][286]\n[266]"],
+        [
+          "?warm (< OE wearm); OE ġierwan \"to prepare, cook\" < PGerm *garwjan",
+          "gwherm- \"warm\""
+        ],
+        ["", "dhegwh-\n\"to burn; warm, hot\"\n[287] [288] [266] [289]"],
+        ["ember (< OE ǣmyrġe)", "ews- \"to burn\";[290][291]"],
+        ["cold (< OE ceald)", "gel- \"to be cold, to freeze\""],
+        ["", "temh- \"(to be) dark\"\ntemhos \"darkness\""],
+        ["OE nifol \"dark [misty]\"", "nebh-os \"cloud; mist\"[293]"],
+        ["", "lew-\n\"dirt, mud\"\n[295][296][276]"],
+        ["sand\n(< OE sand)", "samadhos\n\"sand\"\n[276]"],
+        [
+          "stream (< OE strēam)",
+          "srew-, srew-mo, sru-to \"to flow, stream\" (in river names)[bn]"
+        ],
+        [
+          "",
+          "dhena- \"to set in motion, to flow\";[300]\ndeanu \"river goddess\""
+        ],
+        [
+          "dale\n(< OE dæl)",
+          "dhol-\n\"valley, vault; curve, hollow\"\n[303][304]\n[272]"
+        ],
+        ["OE mere \"lake\"", "mori- \"lake?, sea?\"[bp]"]
+      ]
+    },
+    {
+      "Directions": [
+        ["far (< OE feorr)", "per- \"through, across, beyond\""],
+        ["over (< OE ofer)", "uper(i) \"over, above\""],
+        ["and (< OE and)", "aents \"forehead\", aenti, aenta \"in front of\""],
+        ["in (< OE in)", "en \"in\""],
+        ["of, off (< OE of)", "apo \"away\""],
+        ["", "deks- \"the right (side)\""],
+        [
+          "mark\n(< OE mearc);\nmarch\n(< OF markōn)",
+          "marg-, merg-\n\"edge; boundary, border\"\n[305][306][307]"
+        ],
+        [
+          "butt (< OE bytt);\nbottom, botham (< OE bodan, botm)",
+          "bhudhmen \"bottom\"[308]"
+        ]
+      ]
+    },
+    {
+      "Basic adjectives": [
+        [
+          "borough, borough, Brough, bur-, burg, burgh, bury, -bury\n(< OE burg, burh \"city, town, fortification\");\nbarrow\n(< OE beorg)",
+          "bhergh-\n\"great, tall; hill, elevation\";\nbherghonts\n\"high, mighty\"\n[310][311]\n[272][312] [313]"
+        ],
+        ["OE wǣr \"true\"", "we-, weros\n\"true\"\n[317][318][319]"],
+        ["mid, middle (< OE mid, middel)", "medhyo- \"mid, middle\""],
+        ["much (< OE myc̣el \"big, many\")", "meg- \"big\""],
+        ["long (< OE long, lang);\n", "dlonghos, dlghos \"long\";[320]"],
+        ["", "gwera- \"heavy\""],
+        [
+          "light (< OE lēoht)",
+          "le(n)gwh-, lngwh-ro-, lngwh-u-[br] \"light (in weight)\""
+        ],
+        [
+          "else (< OE elles); other (< OE ōþer)",
+          "alyos, anyos \"other\"; anteros \"second\""
+        ],
+        ["new (< OE nīwe)", "newo- \"new\""],
+        ["young (< OE ġeong < *H₂yuHn̥k̂ós)", "ayuhn- \"young\""],
+        ["", "sen- \"old\""],
+        ["naked (< OE nacod \"naked\")", "nogw- \"naked\""],
+        ["bare (< OE bær)", "bhosos \"bare, barefoot\"[322]"],
+        ["", "nmrtos \"immortal\"[323]"],
+        ["edge (< OE eċġ)", "aek- \"sharp\"[324]"],
+        ["", "bel- \"strong\"[325]"]
+      ]
+    },
+    {
+      "Light and color": [
+        ["light (< OE lēoht)", "leuk- \"light, brightness\""],
+        ["balefire (< OE bǣlfȳr)", "bhel- \"to shine\"[326]"],
+        [
+          "",
+          "aerg- \"shining, bright\"\n\nargntom \"white metal (silver)\"[327]"
+        ],
+        [
+          "white\n(< OE hwīt)",
+          "kweyt-\n\"to shine, white\"\n[331] [332] [333] [334]"
+        ],
+        ["", "krsnos\n\"black; dark, dusky\"\n[335] [336] [333] [337]"],
+        [
+          "red (< OE rēad < *H₁roudʰ-os)",
+          "reudh-, roudh-os, rudh-ros[br] \"red\""
+        ],
+        [
+          "gold; yellow (< OE geolu); yolk (< OE ġeoloca)",
+          "ghel-, ghelo- \"green, yellow\"[343]"
+        ],
+        [
+          "hue\n(< OE hīew \"appearance, form; hue, color\")",
+          "key-\n\"grey, dark shade\"\n[348] [349] [333] [350]"
+        ],
+        [
+          "bear (animal)\n(< OE bera);\nbrown\n(< OE brūn)",
+          "bher-, bherh-\n\"brown\"\n[351] [352] [333] [353]\n(see also bhebhrus)"
+        ]
+      ]
+    },
+    {
+      "Positive qualities": [
+        ["", "wesus\n\"good, excellent\"\n[354][355]\n[356][357]"],
+        ["", "su-\n\"good\"\n[359][360]\n[356][361]"],
+        [
+          "sooth\n(< OE sōþ \"truth\");\nsoothe\n(< OE sōþian \"to prove the validity of, to confirm as true\");\nsoothsayer (originally \"truth-teller\")\n(< PGmc sanþaz + sagjaną \"truth + say\");\nsin (implying \"truly guilty\")\n(< OE synn);\nOE sōþlīċe \"truly, really\", later \"amen\"",
+          "sonts\n\"being, existing, real, true\"\n[362][363]\n[356][364]\n(see also es-)"
+        ]
+      ]
+    },
+    {
+      "Construction, fabrication": [
+        ["ore (< OE ār)", "aeyos \"copper, bronze\"[138]"],
+        ["door (< OE dor, duru)", "dhwer- \"door, doorway, gate\""],
+        ["", "a(e)nat- \"doorpost\"[365]"],
+        [
+          "timber\n(< OE timber \"building material\");\nteem\n(< OE temian \"to fit\");\ntoft\n(< OE toft)",
+          "dem-\n\"to build (up), put together\"\n[366][367][368]"
+        ],
+        ["", "domo-, domu- \"house\", \"home\""],
+        [
+          "yard (< OE ġeard \"enclosure\"); garden (< AngNor gardin < Frank *gardo)",
+          "gherdh-, ghordh-os- \"enclosure, fence\""
+        ],
+        [
+          "wheel (< OE hwēol, hweogol < PGerm *hweg(w)ulaz < *kʷekʷlós)",
+          "kwekwlo- \"wheel\"\n(see also kwel-)"
+        ],
+        ["", "hrot-a-os \"wheel\", \"wagon\""],
+        ["OE nōwend \"shipmaster, sailor\"", "neaus \"vessel, boat\""],
+        ["wool (< OE wull)", "awlnea \"wool\""],
+        ["sew (< OE sēowan)", "s(y)uh- \"to sew\""],
+        ["OE þeox \"spear\"", "teks- \"to fashion, construct\""],
+        ["weave (< OE wefan), web (<P.Gmc. *wabjan)", "webh- \"to weave\""],
+        ["work (< OE weorc, wyrc̣an)", "werg- \"to work\""],
+        ["wear (< OE werian)", "wes- \"to clothe, wear clothes\""]
+      ]
+    },
+    {
+      "Self-motion, rest": [
+        [
+          "is (< OE is), am",
+          "es- \"to be\", es-ti \"is\", es-mi \"am\"\ncf. indo-european copula\n(see also sonts)"
+        ],
+        [
+          "be (< OE bēon); OE būan \"to dwell\"",
+          "bhua- \"to become\"\ncf. indo-european copula"
+        ],
+        ["sit (< OE sittan < *sed-yo-nom)", "sed-, si-zd- \"to sit\""],
+        ["lie (< OE lic̣gan)", "legh- \"to lie down\""],
+        [
+          "home (< OE hām \"village, home\" < *k̂oi-mos);\nhewe \"domestic, servant\"\n(< OE hīwa \"family member\")",
+          "key-\n\"to lie down; settle, bed, cozy, familiar\"\n[377][378]\n[379][380][381]"
+        ],
+        [
+          "",
+          "tkey-\n\"to settle, live; cultivate\"\n[382][383]\n[384][385][386]"
+        ],
+        ["stand (< OE standan)", "stea- \"to stand (i.e. be standing)\""],
+        ["yede (< OE ēode \"went\")", "ei- \"to go\""],
+        ["come (< OE cuman)", "gwem- \"to come\"[387]"],
+        [
+          "",
+          "hyewdh-\n\"to move swiftly, to move upright, to rise (as if to fight)\"[388][389]"
+        ],
+        [
+          "fathom\n(< OE fæþm)",
+          "peta-\n\"to spread out; fly (spread wings)\"\n[118][119][390][391]\n(see also petar)"
+        ],
+        [
+          "fetter\n(< OE feter);\nOE fæt \"step; stride; pace, gait",
+          "ped-\n\"to walk, step; stumble, fall\"\n[392][393][106][394]\n(see also pods)"
+        ],
+        ["OE sec̣g \"follower, companion, man\"", "sekw- \"to follow\""],
+        [
+          "stair\n(< OE stǣġer);\nsty\n(< OE stīgan);\nstile\n(< OE stiġel, stigol)",
+          "steygh-\n\"to go, climb, march\"\n[395][396]\n[262][397]"
+        ],
+        [
+          "-ward\n(< OE -weard \"facing, turned toward\");\nworth (obsolete meaning \"to become\", compare German werden)\n(< OE weorþ);\nweird\n(< OE wyrd, wurd \"fate, destiny\");\nOE weorþung \"an evaluation, appreciation\"",
+          "wert-\n\"to turn, rotate\"\n[398][399]\n[400][401]"
+        ],
+        ["", "bhegw- \"to run, flee\"[402]"],
+        ["", "bhewg- \"to flee\"[403]"]
+      ]
+    },
+    {
+      "Object motion": [
+        [
+          "bear (< OE beran);\nburden, burthen (< OE byrþen)",
+          "bher- \"to carry\""
+        ],
+        [
+          "weigh (< OE wegan \"carry\"); way (< OE weġ); wain \"wagon\" (< OE wæġn)[cb]",
+          "wegh- \"to convey\""
+        ],
+        [
+          "",
+          "yew-, yewg-\n\"to join, yoke, tie together\"\n[404][405]\n(see also yugom)"
+        ],
+        ["", "aeg- \"to lead, drive\""],
+        ["OE eax", "aeks- \"axis, axle\" < aeg-[138][407]"],
+        ["do (< OE dōn)", "dhe-, dh- \"to place, put\""],
+        [
+          "stall\n(< OE steall);\nstell (non-standard) \"to place, set up\"\n(< OE stellan)",
+          "stel-\n\"to put, place, locate; be set, firm\"\n[408][409][262][410]"
+        ],
+        ["", "deo-, dho- \"to give\""],
+        [
+          "have (< OE habban), heave (< OE hebban);\nhaven\n\"hæfen\"",
+          "kap- \"to grab\"[411][412]"
+        ],
+        ["give (< OE ġiefan)", "ghabh- \"to seize, take\""],
+        ["bane (< OE bana \"murderer\")", "gwhen- \"to strike, kill\""],
+        [
+          "bit (< OE bite);bite (< OE bitan); bait (< ON beita)",
+          "bheyd- \"to split, cleave\"[413]"
+        ],
+        [
+          "tear (< OE teran);\nturd (< OE tord)",
+          "der- \"to tear, crack; split, separate\"[414]"
+        ],
+        [
+          "break (< OE brecan);\nbreech, breeches (< OE brēċ)",
+          "bhreg- \"to break\"[415]"
+        ],
+        [
+          "saw (tool) (< OE sagu);\nsax \"slate hammer\" (< OE seax);\nseax (directly borrowed from OE seax);\nzax (< OE seax)",
+          "sek-\n\"to cut off, sever\"[416][417][cc]"
+        ],
+        [
+          "shear\n(< OE scieran);\nshare\n(< OE sċearu);\nshard, sherd\n(< OE sċeard );\nshred\n(< OE sċrēad);\nscrap\n(< ON skrapa);\nscrape\n(< ON skrapa);\nshort\n(< OE sċort);\nscreen\n< PGmc *skirmiz\n\"fur, hide\"\n> Yid shirem \"umbrella\";\nItalian schermo \"screen\";\nRuss šírma\n\"screen, shield\";\nshirt\n(< OE sċyrte);\nskirt\n(< ON skyrta);\nscar\n(< PGmc *skardaz\n\"gap, cut\");\nscore\n(< OE scoru)",
+          "(s)ker-\n\"to cut\"[418][419]\n(see also: sek-)"
+        ],
+        [
+          "shed\n(< OE sċēadan);\nsheath, sheathe\n(< OE sċēaþ);\nshide\n\"a piece of wood, firewood\" (< OE sċīd);\nshite, shit\n(< OE sċītan)",
+          "skey-\nskeyd-\n\"to split, dissect, divide\"[420][421]\n(see also: sek-, (s)ker-)"
+        ],
+        [
+          "",
+          "oer- \"to move, to stir; to rise, spring; quarrel, fight\"[423][424]"
+        ],
+        [
+          "ride (< OE rīdan);\nraid (< OE rād);\nrun (< OE iernan);\n-rith \"small stream (found in surnames and placenames)\"(< OE rīþ)",
+          "oreyh- \"to move, set in motion; flow, stream (of water); pour, rain; churn\"[423][424]"
+        ],
+        [
+          "sulk\n(< OE āsolcen < āseolcan \"to be slow; weak, slothful\")",
+          "selg-\n\"to let go, send, release\"\n[425][426]\n[427][428]"
+        ],
+        [
+          "halse \"neck, throat\"\n(< OE heals)",
+          "kwel-, kwel-\n\"to turn\"\n[429][430]\n[431][432][433]\n(see also kwekwlo-)"
+        ],
+        [
+          "wallow\n(< OE wielwan);\nwell (up) (gush)\n(< OE wellan, willan);\nwell (water source, where the water 'wells up')\n(< OE wielle);\nwall (to boil, spring)\n(< OE weallan);\nwall (rampart)\n(< Lat vallum \"wall, rampart\");\nwalk\n(< OE wealcan);\nwale\n(< OE walu \"ridge, bank\")",
+          "welh-, wel-\n\"to turn, to wind, roll\"\n[434][435]\n[400][436][437]"
+        ],
+        [
+          "wipe\n(< OE wīpian);\nwhip\n(< OE wippen);\nweave (\"to wander\")\n(< ON veifa \"wave, flag\");\nOE wifer \"arrow, missile; sword\";\nswivel\n(< OE swifan + el);\nwaive < waif (\"ownerless, homeless\")\n(< ON veif);[ce]\ngimp\n(< OF wimpil \"head scarf\");\ngimlet\n(< AF wimble \"drill\")>",
+          "weyp- or weyb-\n\"to shake, tremble, agitate; sway, swing; turn, wind\"\n[438][439]\n[400][440][441]"
+        ],
+        ["OE lēon \"to lend\"", "leikw-, li-ne-kw- \"to leave behind\""],
+        [
+          "rock (as in 'to move, sway') (< OE roccian);\nrag (< ON rǫggr)",
+          "hrewk-\n\"to dig, till (soil)\";\nhrewh-\n\"to dig, to root\"[443][444]\n(see also hrew-, hrewp-)"
+        ],
+        [
+          "reave, reeve, reve, bereave (< OE (be)rēofan)",
+          "hrewp-\n\"to break, tear up\"[443][444]\n(see also hrew-, hrewk-)"
+        ],
+        ["rudder (< OE rōþor)", "re- \"to row\"[138][445]"]
+      ]
+    },
+    {
+      "Time": [
+        ["now,\nScot noo\n(< OE nū)", "nu-\n\"now\"\n[446] [447] [448] [449]"],
+        ["yesterday (< OE ġeostra)", "dhghyes \"yesterday\""],
+        ["night (< OE neaht, niht < *nokʷtis)", "nokwts (nekwts) \"night\""],
+        ["", "wek(w)speros \"evening\""],
+        [
+          "eastern (< OE ēasterne)",
+          "aeusos \"dawn\", aeus-tero- \"east\", aeuso- \"gold\""
+        ],
+        [
+          "begin\n(< OE beginnan)",
+          "ken-\n\"to arise, begin\"\n[450][451]\n[452][453]"
+        ],
+        ["", "ghyem-, gheim- \"winter\""],
+        ["summer (< Old English sumor)", "sema- \"summer\""],
+        ["", "wes-r, wes-n-es \"spring\""],
+        [
+          "wether \"castrated male sheep\" (< OE weþer),",
+          "wet- \"year\", per-ut- \"last year\""
+        ],
+        ["", "aet- \"to go, year\"[459]"],
+        ["year (< OE ġēar)", "yer- \"year\""],
+        ["age (< Lat. aetat-),", "aoyu \"long time, lifetime\""]
+      ]
+    },
+    {
+      "Ideas and rituals": [
+        [
+          "god (< OE god < PIE. ǵʰutós \"invoked, libated\")",
+          "ghew- \"to pour, libate, invoke\"[323]"
+        ],
+        ["", "yag- \"to sacrifice, worship\"[323]"],
+        [
+          "creed, credo < Lat crēdō",
+          "kred·dheti \"to believe\" < kred- “heart” + dheti \"place\"[323]\n(see also kerd-)"
+        ],
+        [
+          "",
+          "gwerh-\n\"to praise, express approval; to elevate\"\n[461][462][463]"
+        ],
+        ["", "wegwh- \"to promise, vow; praise\"[464][465]"],
+        ["", "kwen-, kwen-tos \"holy\"[323][466]"],
+        ["", "seak-\n\"holy\"[468][469]"]
+      ]
+    },
+    {
+      "Unclassified": [
+        [
+          "good (< OE gōd);\ngather (< OE gaderian);\ntogether (< OE togædere)",
+          "ghedh- \"to unite, join, suit\"[470]"
+        ],
+        [
+          "better (< OE betera);\nbatten (< ON batna \"to grow better, improve, recover\");\nboot[ck] (< OE bōt \"help, relief, advantage, remedy\")",
+          "bhed- \"to improve, make better\"[471]"
+        ],
+        [
+          "old (< OE eald, ald); alderman (< OE ealdorman)",
+          "ael- \"to grow, nourish\"[472]"
+        ],
+        ["", "oerdh- \"to increase, grow; upright, high\"[473][474]"],
+        [
+          "baksheesh (< Pers baxšidan \"to give, grant, bestow\")",
+          "bheag- \"to divide, distribute, allot\"[475]"
+        ],
+        [
+          "time (< OE tīma);\ntide (< OE tīd)",
+          "dea-\ndeay-\n\"to share, divide\"[476][477]"
+        ],
+        [
+          "tap \"hit lightly\" (< OE tappen);\ntip \"touch quietly, bump quietly\" (< OE tippen)",
+          "deap-\n\"to sacrifice, lose\"[476][477]"
+        ],
+        [
+          "tell, teller (< OE tellen);\ntale (< OE talu);\ntalk (< OE tealcian)",
+          "del-\n\"to split, divide\"[478][479]"
+        ],
+        ["deal (< OE dǣl);\ndole (< OE dāl)", "dhayl-\n\"part, watershed\""],
+        ["", "bhea- \"to shine, glow\"[480]"],
+        ["", "bhewg- \"to enjoy, benefit\"[481]"],
+        [
+          "brook (< OE brūcan) \"(old meaning) to use, enjoy\";\nGer brauchen \"to need, require\"",
+          "bhruhg- \"to make use of, have enjoyment of\"[482]"
+        ],
+        [
+          "toe (< OE tā);\ntoken (< OE tācn);\nteach (< OE tǣċan)",
+          "deyk- \"to point out\";[483]"
+        ],
+        [
+          "own\n(< OE āgen);\nowe\n(< OE āgan);\nOE āga \"owner\";\nought, aught (< OE ǣht)",
+          "aeyk- \"to own, obtain, come in possession of\";\naeaoyke- \"to possess, own\"[484][485]"
+        ],
+        [
+          "OE siġe \"victory\" < PGmc segaz (In personal names, e.g., Sigmund, Siegfried, etc.)",
+          "segh-\n\"to hold, overpower\"[486][487]"
+        ],
+        [
+          "erf \"heritage, inheritance\" (< OE erfe);",
+          "oerbh- \"to change status, ownership\";\noorbhos \"servant, worker, slave; orphan\"[489][490]"
+        ],
+        [
+          "",
+          "hrew- \"to tear out, dig out, open, acquire\"[443][444]\n(see also hrewp-, hrewk-)"
+        ]
+      ]
+    }
+  ]
+}
