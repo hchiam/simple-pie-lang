@@ -12,3 +12,5 @@ This is just a project for fun, and for [mnemonic](https://en.wikipedia.org/wiki
 ## Usage:
 
 website -> scraper -> JSON -> `node json_to_md.js` -> [auto-generated markdown file](https://github.com/hchiam/simple-pie-lang/blob/main/entries_swadesh.md)
+
+See the .js files for more details/instructions.
