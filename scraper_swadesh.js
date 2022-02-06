@@ -31,5 +31,7 @@ function simplerSpelling(pie) {
     .replaceAll("h₂", "a")
     .replaceAll("h₃", "o")
     .replaceAll("ʷ", "w")
-    .replaceAll("ʰ", "h");
+    .replaceAll("ʰ", "h")
+    .replaceAll("w", "u") // to avoid awkward consonant clusters
+    .replaceAll("y", "i"); // to avoid awkward consonant clusters
 }
